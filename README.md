@@ -5,7 +5,6 @@ I’m interested in programming especially Android development
 ------------------------------------------------------------
 
 * 🌍  I'm based in Karshi, Uzbekistan
-* ✉️  You can contact me at [ttoshtemirov23@gmail.com, https://t.me/Ttimur2k03](mailto:ttoshtemirov23@gmail.com, https://t.me/Ttimur2k03)
 * 🧠  I'm learning Kotlin and The Fundamentals of Android development
 
 ### Skills
