@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =============================================================================================================================
 I’m interested in programming especially Android development
 ------------------------------------------------------------
-- 🌱 I’m currently learning Kotlin
+I’m currently learning Kotlin and The Fundamentals of Android development
 
 <!---
 Tktim1/Tktim1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
