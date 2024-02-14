@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Timur Toshtemirov" />
+  <img src="https://raw.githubusercontent.com/toshtemirovtimur/toshtemirovtimur/master/name.svg" alt="Timur Toshtemirov" />
 </h1>
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Kotlin
