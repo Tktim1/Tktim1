@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Tktim1
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Timur Toshtemirov" />
+</h1>
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Kotlin
 
