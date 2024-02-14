@@ -4,6 +4,7 @@ I’m interested in programming especially Android development
 ------------------------------------------------------------
 I’m currently learning Kotlin and The Fundamentals of Android development
 
+* 🌍  I'm based in Karshi, Uzbekistan
 <!---
 Tktim1/Tktim1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
