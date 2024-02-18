@@ -10,6 +10,9 @@
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+- 🔭 The courses I studied:
+  1. [https://www.youtube.com/playlist?list=PLgPRahgE-Gcu4s-I9mrHUrKUp9dY6QcJC](https://www.youtube.com/playlist?list=PLgPRahgE-Gcu4s-I9mrHUrKUp9dY6QcJC)
+  2. [https://www.youtube.com/playlist?list=PLQRyeBV1rkk2vcL4hlviu3t4W_xOw9F9u](https://www.youtube.com/playlist?list=PLQRyeBV1rkk2vcL4hlviu3t4W_xOw9F9u)
 
 <!---
 Tktim1/Tktim1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
